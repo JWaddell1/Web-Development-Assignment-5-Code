@@ -1,0 +1,142 @@
+html, body {
+    height: 100%;
+}
+.indexblock{
+    border-color: #12100E;
+    border-width: 3px;
+    border-style: solid;
+    align-items: center;
+}
+.g-5{
+    align-items: center;
+}
+.g-6{
+    align-items: center;
+    margin: 50px;
+    padding: 50px;
+}
+.col-lg-4{
+    border-color: #D62828;
+    border-style: solid;
+    align-items: center;
+    padding: 20px;
+}
+.navbar{
+    color:rgb(255, 255, 255);
+    text-decoration-color: white;
+    height: 50px;
+    margin:0;
+    padding:0;
+}
+.navbar-nav .nav-link{
+    font-size: 20px;
+}
+.col-sm-4{
+    padding: 40px;
+}
+h2{
+    text-decoration: underline;
+    text-decoration-color: #D62828;
+}
+.sociallinks{
+    align-items: center;
+}
+.btn:click{
+    background-color: #bb1111;
+}
+ul{
+    list-style-type: disc;
+}
+.row{
+    padding: 60px;
+}
+.h1titles{
+    text-align: center;
+}
+.pt-2{
+    color: #12100E;
+}
+.validationform{
+    background-color: #B3BFB8;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: #12100E;
+    padding: 40px;
+    margin: 30px auto;
+}
+.form{
+    align-items: center;
+}
+.error{
+    color: #bb1111;
+}
+.navbar-nav .nav-link{
+    font-size: 20px;
+    font-family: 'Lato',sans-serif;
+}
+/*font-size:48*/
+h1{
+    font-family: 'Abril Fatface', cursive;
+    font-size: (30px,8vw,48px);
+    padding: 30px;
+}
+.h1playername{
+    background: #D62828;
+    padding: 10px;
+    margin: 10px;
+}
+h2{
+    font-family: 'Abril Fatface', cursive;
+    font-size: (24px,8vw,30px);
+}
+h3{
+    font-family: 'Abril Fatface', cursive;
+    font-size: (20px,8vw,24px);
+}
+p{
+    font-family: 'Lato', sans-serif;
+    font-size: (14px,8vw,18px);
+}
+li{
+    font-family: 'Lato', sans-serif;
+    font-size: (14px,8vw,18px);
+}
+.btn{
+    background-color:#B3BFB8;
+    colour: #D62828;  
+    border: #12100E; 
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.btn:hover{
+    background-color: #D62828;
+}
+.staff-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 8px 10px rgba(255, 0, 0, 0.1);
+    padding: 20px;
+    height: fit-content; /* Makes cards in a row the same height */
+    transition: transform 0.2s; /* Add a subtle hover effect */
+}
+
+.staff-card:hover {
+    transform: translateY(-5px);
+}
+
+.staff-card img {
+    border-radius: 5px;
+    object-fit: cover;
+}
+.erlist{
+    background-color: #eb5e5e;
+    margin: 20px auto;
+    padding: 40px;
+}
+.error{
+    color: #D62828;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}

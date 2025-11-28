@@ -1,0 +1,44 @@
+
+header {
+    background-image: url("images/heroimage1.png");
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    align-items: center;
+    color: white;
+}
+.header1 {
+    background-image: url("images/header1.png");
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    align-items: center;
+    color: white;
+}
+.header2 {
+    background-image: url("images/header2.png");
+    background-size: cover;
+    background-position: center;
+    height: 750px;
+    align-items: center;
+    color: white;
+}
+.header3 {
+    background-image: url("images/trainingfacility.png");
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    align-items: center;
+    color: white;
+}
+.header4 {
+    background-image: url("images/header3.png");
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    align-items: center;
+    color: white;
+}
+footer{
+    background-color: #B3BFB8;
+}
